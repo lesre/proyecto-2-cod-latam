@@ -316,6 +316,7 @@ body.mobile-menu-active ul#menu {
     text-align : center;
     padding : 20px;
   }
+  
   .imagen {
 width : 100%;
 max-width : 800px;
@@ -379,7 +380,7 @@ flex-direction: column;
   }
   
 body.dark-mode header {
-    background-color: #170d18 ;
+    background-color: #170d1800 ;
     color: #FFFFFF;
     box-shadow: 0 20px 12px -5px #502b82;
     
@@ -391,7 +392,7 @@ body.dark-mode header {
 
   body.dark-mode #menu-btn{
     border-radius: 10px;
-    background: #c3a3e8;
+    background: #c3a3e8c6;
   }
   body.dark-mode .cv{
     background-color: #3f2576;
@@ -429,7 +430,9 @@ body.dark-mode .redes{
 
     body.dark-mode #inicio{
       background-image: url(https://mcdn.wallpapersafari.com/medium/14/57/i4Vlef.jpg);
-      background-color: #461e48; ;
+      background-color: #461e48; 
+      background-size: cover;
+      
     }
 
     body.dark-mode li.menu-item {
