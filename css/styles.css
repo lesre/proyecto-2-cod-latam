@@ -159,6 +159,7 @@ div.cv {
 .redes {
   text-align : center;
   list-style : none;
+  border-radius: 5%;
 }
 li.redes {
   display : inline-block;
