@@ -347,7 +347,9 @@ section#inicio {
 }
 
 #contacto{
-  margin: 80px 80px;
+  padding: 30px;
+  border-radius: 30px;
+  margin: 20px;
 }
 
 #open-menu {
